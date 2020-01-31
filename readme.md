@@ -44,4 +44,3 @@ And finally, start the application:
 ```bash
 php artisan serve
 ```
-"# laravel-practical" 
