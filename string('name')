@@ -1,0 +1,6 @@
+
+In MigrationCreator.php line 80:
+                                                
+  A CreateRolesTable migration already exists.  
+                                                
+
